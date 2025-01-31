@@ -1,0 +1,9 @@
+{
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "userIgnoreFilters": [
+    "^index\\.md$",
+    "/^/index.md"
+  ],
+  "alwaysUpdateLinks": true
+}

@@ -1,0 +1,3 @@
+- [CI_CD_продвинуто.md](./CI_CD_продвинуто.md)
+- [Продвинуто_Docker,_dockercompose.md](./Продвинуто_Docker,_dockercompose.md)
+- [Углублённое_знание_Git.md](./Углублённое_знание_Git.md)

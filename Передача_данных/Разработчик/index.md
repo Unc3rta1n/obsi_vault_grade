@@ -1,0 +1,3 @@
+- **[Websockets,_gRPC,_Protobuf_—_базовое_понимание.md](./Websockets,_gRPC,_Protobuf_—_базовое_понимание.md)**
+- **[Очереди_(RabbitMQ,_Kafka)_—_базовое_понимание.md](./Очереди_(RabbitMQ,_Kafka)_—_базовое_понимание.md)** 
+- **[Сырые_сокеты.md](./Сырые_сокеты.md)** 
