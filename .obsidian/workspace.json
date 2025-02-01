@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "05824964d59a0c9a",
+        "id": "006d9000407ba562",
         "type": "tabs",
         "children": [
           {
-            "id": "c8c45f24f09106f1",
+            "id": "850585e2082d7073",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ОСНОВА.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ОСНОВА"
             }
           }
         ]
@@ -74,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.5
+    "width": 242.5
   },
   "right": {
     "id": "b761a970e3c9adcc",
@@ -90,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Тесты/Разработчик/Pytest_+_requests,_selenium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Pytest_+_requests,_selenium"
             }
           },
           {
@@ -108,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Тесты/Разработчик/Pytest_+_requests,_selenium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Pytest_+_requests,_selenium"
             }
           },
           {
@@ -136,20 +152,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
+                "file": "ОСНОВА.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of ОСНОВА"
+            }
+          },
+          {
+            "id": "b5b157b1c888b667",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,9 +189,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8c45f24f09106f1",
+  "active": "878200d6a4efe7f8",
   "lastOpenFiles": [
+    "Python/Руководитель_группы_разработки.md",
     "ОСНОВА.md",
+    "Python/Руководитель_отдела_разработки.md",
+    "Python/Ведущий_разработчик.md",
+    "Тесты/Разработчик/Pytest_+_requests,_selenium.md",
+    "Тесты/Разработчик/index.md",
+    "Тесты/Тесты.md",
     "Python/Python.md",
     "Веб/Веб.md",
     "Веб/Ведущий_разработчик/Ведущий разработчик.md",
@@ -172,10 +205,8 @@
     "Базы_данных_Питон/Ведущий_разработчик/Рефакторинг_и_оптимизация_баз_данных_в_Python.md",
     "Базы_данных_Питон/Ведущий_разработчик/Продвинутая_работа_SQLAlchemy.md",
     "Тесты/Разработчик/unittest__pytest_основы.md",
-    "Тесты/Разработчик/index.md",
     "Тесты/Стажер/Базовые_понятия_о_тестировании.md",
     "Тесты/Стажер/index.md",
-    "Тесты/Тесты.md",
     "Python/Младший_разработчик.md",
     "Python/Стажер.md",
     "Базы_данных/Базы_данных.md",
@@ -188,10 +219,6 @@
     "Сетевые_Технологии/Стажер/index.md",
     "Сетевые_Технологии/Сетевые_технологии.md",
     "Сетевые_Технологии/Младший_разработчик/Базовые_навыки_работы_с_Git.md",
-    "Базы_данных_Питон/Руководитель_группы_разработки/index.md",
-    "Базы_данных/Стажер/index.md",
-    "Программирование/Программирование.md",
-    "Передача_данных/Передача_данных.md",
     "Ведущий_разработчик",
     "Тесты/Руководитель_отдела_разработки",
     "Тесты/Младший_разработчик",
